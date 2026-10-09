@@ -1,6 +1,6 @@
 from add import addition
 
-def test pos():
+def testpos():
     assert addition (10,20) == 40
 
 def test_zero():
